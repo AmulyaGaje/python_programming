@@ -1,0 +1,8 @@
+d=int(input("Enter the distance in feet:"))
+inch=d*12
+yard=d/3
+mile=d/5280
+print(f"Distance in feet:{d}")
+print(f"The distance in inches{inch}")
+print(f"Distance in yards{yard}")
+print(f"Distance in miles:{mile}")
